@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @karan5028ji
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning ethical hacking
-- 💞️ I’m looking to collaborate on black hat hacker 
 - 📫 How to reach me ...
 
 <!---
