@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @karan5028ji
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning ethical hacking
+- 👋 hi, i am karan
+- 🌱 daily learning something new
 - 📫 How to reach me ...
+
 
 <!---
 karan5028ji/karan5028ji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
