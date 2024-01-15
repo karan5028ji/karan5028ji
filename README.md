@@ -1,6 +1,6 @@
 - 👋 hi, i am karan
 - 🌱 daily learning something new
-- 📫 How to reach me ...
+- 👑 live like a king
 
 
 <!---
