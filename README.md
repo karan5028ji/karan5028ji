@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kxrn Gupta</h1>
+<h1 align="center">Hi 👋, I'm Chitresh Gupta</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Independent+Artist;Music+Producer;CEO+at+DuskyMoon;Software+Developer" alt="Typing SVG" />
 </p>
