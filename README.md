@@ -26,7 +26,7 @@ Hey there! I’m **Kxrn**, a passionate musician dropping beats with **DuskyMoon
 ## 🌐 Socials:
 <p align="center">
   <a href="https://instagram.com/kxrn_gupta"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://youtube.com/@UCz0xT2O1YyGnJNZqgBtFrpw"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+  <a href="https://youtube.com/UCz0xT2O1YyGnJNZqgBtFrpw"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
   <a href="mailto:karan5028ji@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -62,14 +62,11 @@ Hey there! I’m **Kxrn**, a passionate musician dropping beats with **DuskyMoon
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=karan5028ji&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=karan5028ji&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api?username=karan5028ji&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=issues" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=karan5028ji&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karan5028ji&theme=maroongold&no-frame=false&no-bg=false&margin-w=4" />
-</p>
+
 
 ## 🐍 Contribution Snake
 <p align="center">
