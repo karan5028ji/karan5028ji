@@ -11,7 +11,7 @@
 | **Stage Name** | **Kxrn** (Chitresh / Karan Gupta) |
 | **Enterprises** | Founder & CEO @ **Gupta Ventures** • **DuskyMoon Productions** |
 | **Latest Release** | [Sapne (feat. Ankit)](https://open.spotify.com/track/01zlbkclGL6OlMpekdfBZD) 🚀 *(Stream on Spotify)* |
-| **Upcoming Single** | **Roothi Radhe (feat. Ankit)** — *Releasing October 9, 2026* |
+| **Upcoming Single** | [**Roothi Radhe (feat. Ankit)**](https://release.studio/roothi-radhe) — *Releasing October 11, 2026* 🎶 *(Pre-Save Available)* |
 | **Website** | [kxrn.is-a.dev](https://kxrn.is-a.dev/) 🌐 |
 | **Knowledge Graph** | [Google Entity MID: /g/11yd1j6j51](https://www.google.com/search?kgmid=/g/11yd1j6j51) |
 | **Current Vibe** | Dreamy Beats, Soulful Melodies & Autonomous Systems |
@@ -20,8 +20,9 @@
 Hey there! I’m **Kxrn**, an independent music producer, systems software developer, and founder of **Gupta Ventures** & **DuskyMoon Productions** 🎵. I thrive at the intersection of code and sound.
 
 *   👔 **Founder & CEO @ Gupta Ventures & DuskyMoon Productions**: An independent music label, digital solutions, and software systems hub.
-*   🪟 **Microsoft winget Author**: Created [`Win-Optimizer-Pro`](https://github.com/karan5028ji/Win-Optimizer-Pro) (v2.1.6 with Deep Boot Guard) — `winget install karan5028ji.WinOptimizerPro`.
-*   🐝 **AI Systems & SwarmForge**: Zero-cost multi-agent orchestrator research & staff pick on [CoderLegion](https://coderlegion.com/27523/building-zero-cost-multi-agent-orchestrators-local-assistants-journey-with-swarmforge) (IBM Bob 2.0 & WeAreDevelopers Hackathons).
+*   🪟 **Microsoft winget Author**: Created [`Win-Optimizer-Pro`](https://github.com/karan5028ji/Win-Optimizer-Pro) (**v2.1.7 Officially Merged**) — `winget install karan5028ji.WinOptimizerPro`.
+*   📰 **HackerNoon Editorial Feature**: Spotlighted in [*"Behind the Code: How a 19-Year-Old Music Producer Builds Zero-Cost AI Systems"*](https://hackernoon.com/behind-the-code-how-a-19-year-old-music-producer-builds-zero-cost-ai-systems).
+*   🐝 **AI Systems & SwarmForge**: Zero-cost multi-agent orchestrator research & staff pick on [CoderLegion](https://coderlegion.com/27523/building-zero-cost-multi-agent-orchestrators-local-assistants-journey-with-swarmforge) (DOI: `10.5281/zenodo.22647525`).
 *   🛡️ **ForgeGuard Engine**: Autonomous AI AppSec auditor & AST deterministic patch engine ([Live on Devpost](https://devpost.com/software/forgeguard-autonomous-ai-security-patch-engine)).
 *   🎓 **Double Harvard Certified**: 
     * [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/ab707528-9255-4c2f-afa0-9fe5e7d4e45e)
