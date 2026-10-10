@@ -20,20 +20,29 @@
 | :--- | :--- | :--- |
 | **Gupta Ventures** | Founder & Systems Architect | Parent technology venture & autonomous systems laboratory. |
 | **DuskyMoon Productions** | Founder & Record Label Head | Independent music label & digital audio publishing house. |
-| **Music Career (Kxrn)** | Producer & Indie Artist | Single: [**Sapne**](https://open.spotify.com/track/01zlbkclGL6OlMpekdfBZD) • Upcoming: [**Roothi Radhe**](https://release.studio/roothi-radhe) *(Drop: Oct 11, 2026)* |
-| **Open Source & Ecosystems** | Core Contributor | Tauri Ecosystem Contributor • Microsoft PowerToys Contributor • winget Publisher |
+| **Music Career (Kxrn)** | Producer & Indie Artist | Singles: [**Roothi Radhe**](https://open.spotify.com/artist/57sDiEfeHnIZX2g7gvPBR2) • [**Sapne**](https://open.spotify.com/track/01zlbkclGL6OlMpekdfBZD) *(Live on Spotify & Apple Music)* |
+| **Open Source & Ecosystems** | Core Contributor | Tauri Ecosystem (Rank #14) • Microsoft PowerToys • Meta Docusaurus • winget Publisher |
 | **AI & Security Research** | Lead Builder | SwarmForge *(DOI: `10.5281/zenodo.22647525`)* • ForgeGuard AppSec Engine |
 
 ---
 
 ### 🚀 Highlighted Engineering & Open-Source Milestones
 
-* 🦀 **Tauri Framework (`tauri-apps`)**: Official merged contributor to the Tauri v2 plugin ecosystem ([PR #3676](https://github.com/tauri-apps/plugins-workspace/pull/3676)).
+* 🦀 **Tauri Framework (`tauri-apps`)**: Official merged contributor to the Tauri v2 plugin ecosystem ([PR #3676](https://github.com/tauri-apps/plugins-workspace/pull/3676) — Rank #14 Contributor).
 * 🪟 **Microsoft PowerToys (`microsoft/PowerToys`)**: Open-source contributor to Microsoft's flagship Windows utility suite ([PR #51126](https://github.com/microsoft/PowerToys/pull/51126)).
+* 📘 **Meta / Facebook (`facebook/docusaurus`)**: Open-source contributor to Meta's flagship documentation framework ([PR #12622](https://github.com/facebook/docusaurus/pull/12622)).
 * 📦 **Microsoft Windows Package Manager (`winget`)**: Author & publisher of [`Win-Optimizer-Pro`](https://github.com/karan5028ji/Win-Optimizer-Pro) (`winget install karan5028ji.WinOptimizerPro` — *v2.1.7 merged*).
-* 🎓 **Microsoft Learn Student Ambassador**: Official candidate & verified Microsoft ecosystem learner (`chitreshgupta-2988`).
+* 🎓 **Microsoft Learn Student Ambassador**: Registered Member (`studentamb_664130`) & **Microsoft Certified AI Agent Builder** (*Credential `E33784E386894D86`*).
 * 📰 **HackerNoon Editorial Feature**: Spotlighted in [*"Behind the Code: How a 19-Year-Old Music Producer Builds Zero-Cost AI Systems"*](https://hackernoon.com/behind-the-code-how-a-19-year-old-music-producer-builds-zero-cost-ai-systems).
 * 🎓 **Harvard University Certified**: Double CS50 credentialed in [AI with Python](https://cs50.harvard.edu/certificates/ab707528-9255-4c2f-afa0-9fe5e7d4e45e) & [Computer Programming](https://cs50.harvard.edu/certificates/27e93e59-72dd-4da4-ba83-b8a487f5efd1).
+
+---
+
+### 🎓 Free Developer & Student Resources
+
+* 🚀 [**Claim $100 Free Azure for Students (No Credit Card Required)**](https://azure.microsoft.com/free/students?wt.mc_id=studentamb_664130) — Free cloud compute, Linux VMs, and database hosting for academic & personal projects.
+* 🤖 [**Interactive Microsoft Copilot Studio AI Agent Sandbox**](https://learn.microsoft.com/credentials/applied-skills/build-an-agent-in-microsoft-copilot-studio/?wt.mc_id=studentamb_664130) — Free browser-based lab to design, ground (RAG), and deploy autonomous AI agents.
+* 💻 [**Visual Studio Code with Cloud Remote Containers**](https://code.visualstudio.com/?wt.mc_id=studentamb_664130) — Modern developer tooling and cloud workspaces.
 
 ---
 
