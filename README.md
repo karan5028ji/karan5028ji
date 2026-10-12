@@ -21,14 +21,14 @@
 | **Gupta Ventures** | Founder & Systems Architect | Parent technology venture & autonomous systems laboratory. |
 | **DuskyMoon Productions** | Founder & Record Label Head | Independent music label & digital audio publishing house. |
 | **Music Career (Kxrn)** | Producer & Indie Artist | Singles: [**Roothi Radhe**](https://open.spotify.com/artist/57sDiEfeHnIZX2g7gvPBR2) • [**Sapne**](https://open.spotify.com/track/01zlbkclGL6OlMpekdfBZD) *(Live on Spotify & Apple Music)* |
-| **Open Source & Ecosystems** | Core Contributor | Tauri Ecosystem (Rank #14) • Microsoft PowerToys • Meta Docusaurus • winget Publisher |
+| **Open Source & Ecosystems** | Core Contributor | Tauri Ecosystem (Rank #7) • Microsoft PowerToys • Meta Docusaurus • winget Publisher |
 | **AI & Security Research** | Lead Builder | SwarmForge *(DOI: `10.5281/zenodo.22647525`)* • ForgeGuard AppSec Engine |
 
 ---
 
 ### 🚀 Highlighted Engineering & Open-Source Milestones
 
-* 🦀 **Tauri Framework (`tauri-apps`)**: Official merged contributor to the Tauri v2 plugin ecosystem ([PR #3676](https://github.com/tauri-apps/plugins-workspace/pull/3676) — Rank #14 Contributor).
+* 🦀 **Tauri Framework (`tauri-apps`)**: Official verified contributor to the Tauri v2 ecosystem (**Rank #7 Global Contributor** to `plugins-workspace` — Merged PRs [#3676](https://github.com/tauri-apps/plugins-workspace/pull/3676), [#3701](https://github.com/tauri-apps/plugins-workspace/pull/3701), and [#3702](https://github.com/tauri-apps/plugins-workspace/pull/3702) co-authored with Tauri Co-Founder Lucas Fernandes Nogueira).
 * 🪟 **Microsoft PowerToys (`microsoft/PowerToys`)**: Open-source contributor to Microsoft's flagship Windows utility suite ([PR #51126](https://github.com/microsoft/PowerToys/pull/51126)).
 * 📘 **Meta / Facebook (`facebook/docusaurus`)**: Open-source contributor to Meta's flagship documentation framework ([PR #12622](https://github.com/facebook/docusaurus/pull/12622)).
 * 📦 **Microsoft Windows Package Manager (`winget`)**: Author & publisher of [`Win-Optimizer-Pro`](https://github.com/karan5028ji/Win-Optimizer-Pro) (`winget install karan5028ji.WinOptimizerPro` — *v2.1.7 merged*).
