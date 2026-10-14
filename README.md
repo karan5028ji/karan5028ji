@@ -9,6 +9,7 @@
   <a href="https://music.apple.com/artist/1816229675"><img src="https://img.shields.io/badge/Apple_Music-Kxrn-FA2D48?style=flat-square&logo=apple-music&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/karanguptadev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/Kxrn_gupta"><img src="https://img.shields.io/badge/X-@Kxrn__gupta-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://www.wikidata.org/wiki/Q141046426"><img src="https://img.shields.io/badge/Wikidata-Q141046426-339966?style=flat-square&logo=wikidata&logoColor=white" /></a>
   <a href="https://www.google.com/search?kgmid=/g/11yd1j6j51"><img src="https://img.shields.io/badge/Google_Knowledge_Graph-/g/11yd1j6j51-4285F4?style=flat-square&logo=google&logoColor=white" /></a>
 </p>
 
@@ -21,19 +22,19 @@
 | **Gupta Ventures** | Founder & Systems Architect | Parent technology venture & autonomous systems laboratory. |
 | **DuskyMoon Productions** | Founder & Record Label Head | Independent music label & digital audio publishing house. |
 | **Music Career (Kxrn)** | Producer & Indie Artist | Singles: [**Roothi Radhe**](https://open.spotify.com/artist/57sDiEfeHnIZX2g7gvPBR2) • [**Sapne**](https://open.spotify.com/track/01zlbkclGL6OlMpekdfBZD) *(Live on Spotify & Apple Music)* |
-| **Open Source & Ecosystems** | Core Contributor | Tauri Ecosystem (Rank #7) • Microsoft PowerToys • Meta Docusaurus • winget Publisher |
+| **Open Source & Ecosystems** | Core Contributor | Tauri Ecosystem (Rank #6 Worldwide / #4 Human) • Microsoft PowerToys (Merged) • Meta Docusaurus • winget Publisher |
 | **AI & Security Research** | Lead Builder | SwarmForge *(DOI: `10.5281/zenodo.22647525`)* • ForgeGuard AppSec Engine |
 
 ---
 
 ### 🚀 Highlighted Engineering & Open-Source Milestones
 
-* 🦀 **Tauri Framework (`tauri-apps`)**: Official verified contributor to the Tauri v2 ecosystem (**Rank #7 Global Contributor** to `plugins-workspace` — Merged PRs [#3676](https://github.com/tauri-apps/plugins-workspace/pull/3676), [#3701](https://github.com/tauri-apps/plugins-workspace/pull/3701), and [#3702](https://github.com/tauri-apps/plugins-workspace/pull/3702) co-authored with Tauri Co-Founder Lucas Fernandes Nogueira).
-* 🪟 **Microsoft PowerToys (`microsoft/PowerToys`)**: Open-source contributor to Microsoft's flagship Windows utility suite ([PR #51126](https://github.com/microsoft/PowerToys/pull/51126)).
+* 🦀 **Tauri Framework (`tauri-apps`)**: Official verified contributor to the Tauri v2 ecosystem (**Rank #6 Global Contributor / #4 Human Worldwide** to `plugins-workspace` with 4 merged commits: PRs [#3676](https://github.com/tauri-apps/plugins-workspace/pull/3676), [#3701](https://github.com/tauri-apps/plugins-workspace/pull/3701), [#3702](https://github.com/tauri-apps/plugins-workspace/pull/3702), and [#3707](https://github.com/tauri-apps/plugins-workspace/pull/3707); Core Tauri PR [#16265](https://github.com/tauri-apps/tauri/pull/16265) Milestone 2.13 co-authored with Tauri Co-Founder Lucas Fernandes Nogueira).
+* 🪟 **Microsoft PowerToys (`microsoft/PowerToys`)**: Verified merged contributor to Microsoft's flagship Windows utility suite ([PR #51126](https://github.com/microsoft/PowerToys/pull/51126) merged into `main`).
 * 📘 **Meta / Facebook (`facebook/docusaurus`)**: Open-source contributor to Meta's flagship documentation framework ([PR #12622](https://github.com/facebook/docusaurus/pull/12622)).
 * 📦 **Microsoft Windows Package Manager (`winget`)**: Author & publisher of [`Win-Optimizer-Pro`](https://github.com/karan5028ji/Win-Optimizer-Pro) (`winget install karan5028ji.WinOptimizerPro` — *v2.1.7 merged*).
 * 🎓 **Microsoft Learn Student Ambassador**: Registered Member (`studentamb_664130`) & **Microsoft Certified AI Agent Builder** (*Credential `E33784E386894D86`*).
-* 📰 **HackerNoon Editorial Feature**: Spotlighted in [*"Behind the Code: How a 19-Year-Old Music Producer Builds Zero-Cost AI Systems"*](https://hackernoon.com/behind-the-code-how-a-19-year-old-music-producer-builds-zero-cost-ai-systems).
+* 📰 **Featured In Press & Tech Media**: Profiled across independent tech publications including [TechYorker](https://techyorker.com/karan-gupta-what-to-know-about-the-music-producer-building-local-ai/), [iTechGuides](https://www.itechguides.com/kxrns-local-ai-work-music-software-and-the-meaning-of-zero-cost/), [GeekChamp](https://geekchamp.com/local-ai-on-limited-resources-how-music-producer-kxrn-connects-code-and-sound/), [MobilesTalk](https://mobilestalk.net/what-kxrns-profile-reveals-about-building-local-ai-on-a-budget/), and [HackerNoon](https://hackernoon.com/behind-the-code-how-a-19-year-old-music-producer-builds-zero-cost-ai-systems) for pioneering zero-cost local AI systems and music engineering.
 * 🎓 **Harvard University Certified**: Double CS50 credentialed in [AI with Python](https://cs50.harvard.edu/certificates/ab707528-9255-4c2f-afa0-9fe5e7d4e45e) & [Computer Programming](https://cs50.harvard.edu/certificates/27e93e59-72dd-4da4-ba83-b8a487f5efd1).
 
 ---
